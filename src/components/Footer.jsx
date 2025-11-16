@@ -15,10 +15,11 @@ export default function Footer() {
             </p>
             <p className="small mb-0">
               <i className="bi bi-whatsapp me-2 text-success"></i>
-              WhatsApp: +91-XXXXXXXXXX
+              WhatsApp: +91-944886798
             </p>
             <p className="small mb-0">
-              <i className="bi bi-telephone me-2"></i> Phone: +91-XXXXXXXXXX
+              <i className="bi bi-telephone me-2"></i> Phone: +91-9242668244,
+              +91-9448867988
             </p>
             <p className="small mb-0">
               <i className="bi bi-envelope me-2"></i> Email:
